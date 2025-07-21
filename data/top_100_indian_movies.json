@@ -1,0 +1,802 @@
+[
+  {
+    "rank": 1,
+    "title": "The Silence of Swastika",
+    "year": 2021,
+    "rating": 9.0,
+    "votes": 11000,
+    "duration": "56m"
+  },
+  {
+    "rank": 2,
+    "title": "12th Fail",
+    "year": 2023,
+    "rating": 8.7,
+    "votes": 152000,
+    "duration": "2h 27m"
+  },
+  {
+    "rank": 3,
+    "title": "777 Charlie",
+    "year": 2022,
+    "rating": 8.7,
+    "votes": 44000,
+    "duration": "2h 44m"
+  },
+  {
+    "rank": 4,
+    "title": "#Home",
+    "year": 2021,
+    "rating": 8.7,
+    "votes": 17000,
+    "duration": "2h 38m"
+  },
+  {
+    "rank": 5,
+    "title": "Resurrection",
+    "year": 2018,
+    "rating": 8.7,
+    "votes": 18000,
+    "duration": "2h 27m"
+  },
+  {
+    "rank": 6,
+    "title": "Jai Bhim",
+    "year": 2021,
+    "rating": 8.6,
+    "votes": 228000,
+    "duration": "2h 44m"
+  },
+  {
+    "rank": 7,
+    "title": "Soorarai Pottru",
+    "year": 2020,
+    "rating": 8.6,
+    "votes": 129000,
+    "duration": "2h 33m"
+  },
+  {
+    "rank": 8,
+    "title": "Pariyerum Perumal",
+    "year": 2018,
+    "rating": 8.6,
+    "votes": 20000,
+    "duration": "2h 34m"
+  },
+  {
+    "rank": 9,
+    "title": "Rocketry: The Nambi Effect",
+    "year": 2022,
+    "rating": 8.6,
+    "votes": 61000,
+    "duration": "2h 37m"
+  },
+  {
+    "rank": 10,
+    "title": "Daman",
+    "year": 2022,
+    "rating": 8.6,
+    "votes": 14000,
+    "duration": "2h 1m"
+  },
+  {
+    "rank": 11,
+    "title": "Anbe Sivam",
+    "year": 2003,
+    "rating": 8.6,
+    "votes": 27000,
+    "duration": "2h 40m"
+  },
+  {
+    "rank": 12,
+    "title": "Sita Ramam",
+    "year": 2022,
+    "rating": 8.5,
+    "votes": 77000,
+    "duration": "2h 43m"
+  },
+  {
+    "rank": 13,
+    "title": "96",
+    "year": 2018,
+    "rating": 8.5,
+    "votes": 42000,
+    "duration": "2h 38m"
+  },
+  {
+    "rank": 14,
+    "title": "Kumbalangi Nights",
+    "year": 2019,
+    "rating": 8.5,
+    "votes": 20000,
+    "duration": "2h 15m"
+  },
+  {
+    "rank": 15,
+    "title": "The Kashmir Files",
+    "year": 2022,
+    "rating": 8.5,
+    "votes": 577000,
+    "duration": "2h 50m"
+  },
+  {
+    "rank": 16,
+    "title": "Jersey",
+    "year": 2019,
+    "rating": 8.5,
+    "votes": 25000,
+    "duration": "2h 37m"
+  },
+  {
+    "rank": 17,
+    "title": "Sarpatta Parambarai",
+    "year": 2021,
+    "rating": 8.5,
+    "votes": 27000,
+    "duration": "2h 53m"
+  },
+  {
+    "rank": 18,
+    "title": "3 Idiots",
+    "year": 2009,
+    "rating": 8.4,
+    "votes": 463000,
+    "duration": "2h 50m"
+  },
+  {
+    "rank": 19,
+    "title": "Maharaja",
+    "year": 2024,
+    "rating": 8.4,
+    "votes": 72000,
+    "duration": "2h 21m"
+  },
+  {
+    "rank": 20,
+    "title": "Amaran",
+    "year": 2024,
+    "rating": 8.4,
+    "votes": 16000,
+    "duration": "2h 57m"
+  },
+  {
+    "rank": 21,
+    "title": "Drishyam 2",
+    "year": 2021,
+    "rating": 8.4,
+    "votes": 43000,
+    "duration": "2h 32m"
+  },
+  {
+    "rank": 22,
+    "title": "Black Friday",
+    "year": 2004,
+    "rating": 8.4,
+    "votes": 23000,
+    "duration": "2h 23m"
+  },
+  {
+    "rank": 23,
+    "title": "Vada Chennai",
+    "year": 2018,
+    "rating": 8.4,
+    "votes": 22000,
+    "duration": "2h 44m"
+  },
+  {
+    "rank": 24,
+    "title": "Article 15",
+    "year": 2019,
+    "rating": 8.4,
+    "votes": 36000,
+    "duration": "2h 21m"
+  },
+  {
+    "rank": 25,
+    "title": "Drishyam",
+    "year": 2013,
+    "rating": 8.4,
+    "votes": 46000,
+    "duration": "2h 40m"
+  },
+  {
+    "rank": 26,
+    "title": "Visaranai",
+    "year": 2015,
+    "rating": 8.4,
+    "votes": 13000,
+    "duration": "1h 57m"
+  },
+  {
+    "rank": 27,
+    "title": "Thani Oruvan",
+    "year": 2015,
+    "rating": 8.4,
+    "votes": 23000,
+    "duration": "2h 40m"
+  },
+  {
+    "rank": 28,
+    "title": "Mahanati",
+    "year": 2018,
+    "rating": 8.4,
+    "votes": 16000,
+    "duration": "2h 57m"
+  },
+  {
+    "rank": 29,
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "rating": 8.3,
+    "votes": 221000,
+    "duration": "2h 42m"
+  },
+  {
+    "rank": 30,
+    "title": "Dangal",
+    "year": 2016,
+    "rating": 8.3,
+    "votes": 229000,
+    "duration": "2h 41m"
+  },
+  {
+    "rank": 31,
+    "title": "Tumhari Sulu",
+    "year": 2017,
+    "rating": 8.3,
+    "votes": 15000,
+    "duration": "2h 20m"
+  },
+  {
+    "rank": 32,
+    "title": "Pink",
+    "year": 2016,
+    "rating": 8.3,
+    "votes": 45000,
+    "duration": "2h 16m"
+  },
+  {
+    "rank": 33,
+    "title": "Andhadhun",
+    "year": 2018,
+    "rating": 8.3,
+    "votes": 89000,
+    "duration": "2h 19m"
+  },
+  {
+    "rank": 34,
+    "title": "Gully Boy",
+    "year": 2019,
+    "rating": 8.3,
+    "votes": 78000,
+    "duration": "2h 33m"
+  },
+  {
+    "rank": 35,
+    "title": "Super 30",
+    "year": 2019,
+    "rating": 8.3,
+    "votes": 67000,
+    "duration": "2h 34m"
+  },
+  {
+    "rank": 36,
+    "title": "Badhaai Ho",
+    "year": 2018,
+    "rating": 8.3,
+    "votes": 34000,
+    "duration": "2h 4m"
+  },
+  {
+    "rank": 37,
+    "title": "Stree",
+    "year": 2018,
+    "rating": 8.3,
+    "votes": 56000,
+    "duration": "2h 8m"
+  },
+  {
+    "rank": 38,
+    "title": "Tumhari Sulu",
+    "year": 2017,
+    "rating": 8.3,
+    "votes": 15000,
+    "duration": "2h 20m"
+  },
+  {
+    "rank": 39,
+    "title": "Newton",
+    "year": 2017,
+    "rating": 8.3,
+    "votes": 23000,
+    "duration": "1h 46m"
+  },
+  {
+    "rank": 40,
+    "title": "Bareilly Ki Barfi",
+    "year": 2017,
+    "rating": 8.3,
+    "votes": 18000,
+    "duration": "2h 2m"
+  },
+  {
+    "rank": 41,
+    "title": "Aruvi",
+    "year": 2016,
+    "rating": 8.3,
+    "votes": 15000,
+    "duration": "2h 10m"
+  },
+  {
+    "rank": 42,
+    "title": "Kaun Pravin Tambe?",
+    "year": 2022,
+    "rating": 8.3,
+    "votes": 12000,
+    "duration": "2h 14m"
+  },
+  {
+    "rank": 43,
+    "title": "Toilet: Ek Prem Katha",
+    "year": 2017,
+    "rating": 8.2,
+    "votes": 34000,
+    "duration": "2h 35m"
+  },
+  {
+    "rank": 44,
+    "title": "Hindi Medium",
+    "year": 2017,
+    "rating": 8.2,
+    "votes": 45000,
+    "duration": "2h 12m"
+  },
+  {
+    "rank": 45,
+    "title": "Shubh Mangal Saavdhan",
+    "year": 2017,
+    "rating": 8.2,
+    "votes": 23000,
+    "duration": "2h 1m"
+  },
+  {
+    "rank": 46,
+    "title": "Mukkabaaz",
+    "year": 2017,
+    "rating": 8.2,
+    "votes": 12000,
+    "duration": "2h 35m"
+  },
+  {
+    "rank": 47,
+    "title": "Masaan",
+    "year": 2015,
+    "rating": 8.2,
+    "votes": 34000,
+    "duration": "1h 49m"
+  },
+  {
+    "rank": 48,
+    "title": "Court",
+    "year": 2014,
+    "rating": 8.2,
+    "votes": 15000,
+    "duration": "1h 56m"
+  },
+  {
+    "rank": 49,
+    "title": "Queen",
+    "year": 2013,
+    "rating": 8.2,
+    "votes": 67000,
+    "duration": "2h 26m"
+  },
+  {
+    "rank": 50,
+    "title": "Lucia",
+    "year": 2013,
+    "rating": 8.2,
+    "votes": 12000,
+    "duration": "2h 15m"
+  },
+  {
+    "rank": 51,
+    "title": "1917",
+    "year": 2019,
+    "rating": 8.2,
+    "votes": 736000,
+    "duration": "1h 59m"
+  },
+  {
+    "rank": 52,
+    "title": "Saiyaara",
+    "year": 2025,
+    "rating": 8.2,
+    "votes": 20000,
+    "duration": "2h 30m"
+  },
+  {
+    "rank": 53,
+    "title": "Gangs of Wasseypur",
+    "year": 2012,
+    "rating": 8.2,
+    "votes": 89000,
+    "duration": "5h 21m"
+  },
+  {
+    "rank": 54,
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "rating": 8.2,
+    "votes": 78000,
+    "duration": "2h 35m"
+  },
+  {
+    "rank": 55,
+    "title": "Rockstar",
+    "year": 2011,
+    "rating": 8.2,
+    "votes": 56000,
+    "duration": "2h 39m"
+  },
+  {
+    "rank": 56,
+    "title": "My Name is Khan",
+    "year": 2010,
+    "rating": 8.2,
+    "votes": 89000,
+    "duration": "2h 45m"
+  },
+  {
+    "rank": 57,
+    "title": "Udaan",
+    "year": 2010,
+    "rating": 8.2,
+    "votes": 23000,
+    "duration": "2h 14m"
+  },
+  {
+    "rank": 58,
+    "title": "Dev.D",
+    "year": 2009,
+    "rating": 8.2,
+    "votes": 34000,
+    "duration": "2h 24m"
+  },
+  {
+    "rank": 59,
+    "title": "A Wednesday",
+    "year": 2008,
+    "rating": 8.2,
+    "votes": 67000,
+    "duration": "1h 44m"
+  },
+  {
+    "rank": 60,
+    "title": "Chak De! India",
+    "year": 2007,
+    "rating": 8.2,
+    "votes": 89000,
+    "duration": "2h 33m"
+  },
+  {
+    "rank": 61,
+    "title": "Rang De Basanti",
+    "year": 2006,
+    "rating": 8.1,
+    "votes": 125000,
+    "duration": "2h 47m"
+  },
+  {
+    "rank": 62,
+    "title": "Lage Raho Munna Bhai",
+    "year": 2006,
+    "rating": 8.1,
+    "votes": 78000,
+    "duration": "2h 24m"
+  },
+  {
+    "rank": 63,
+    "title": "Swades",
+    "year": 2004,
+    "rating": 8.1,
+    "votes": 89000,
+    "duration": "3h 9m"
+  },
+  {
+    "rank": 64,
+    "title": "Munna Bhai M.B.B.S.",
+    "year": 2003,
+    "rating": 8.1,
+    "votes": 93000,
+    "duration": "2h 36m"
+  },
+  {
+    "rank": 65,
+    "title": "Dil Chahta Hai",
+    "year": 2001,
+    "rating": 8.1,
+    "votes": 67000,
+    "duration": "3h 3m"
+  },
+  {
+    "rank": 66,
+    "title": "Lagaan",
+    "year": 2001,
+    "rating": 8.1,
+    "votes": 125000,
+    "duration": "3h 44m"
+  },
+  {
+    "rank": 67,
+    "title": "Haider",
+    "year": 2014,
+    "rating": 8.1,
+    "votes": 45000,
+    "duration": "2h 40m"
+  },
+  {
+    "rank": 68,
+    "title": "Shahid",
+    "year": 2012,
+    "rating": 8.1,
+    "votes": 23000,
+    "duration": "2h 9m"
+  },
+  {
+    "rank": 69,
+    "title": "Paan Singh Tomar",
+    "year": 2012,
+    "rating": 8.1,
+    "votes": 34000,
+    "duration": "2h 15m"
+  },
+  {
+    "rank": 70,
+    "title": "The Dirty Picture",
+    "year": 2011,
+    "rating": 8.1,
+    "votes": 45000,
+    "duration": "2h 24m"
+  },
+  {
+    "rank": 71,
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "rating": 8.1,
+    "votes": 78000,
+    "duration": "2h 35m"
+  },
+  {
+    "rank": 72,
+    "title": "Peepli Live",
+    "year": 2010,
+    "rating": 8.1,
+    "votes": 23000,
+    "duration": "1h 44m"
+  },
+  {
+    "rank": 73,
+    "title": "Kaminey",
+    "year": 2009,
+    "rating": 8.1,
+    "votes": 34000,
+    "duration": "2h 10m"
+  },
+  {
+    "rank": 74,
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "rating": 8.1,
+    "votes": 898000,
+    "duration": "2h"
+  },
+  {
+    "rank": 75,
+    "title": "Om Shanti Om",
+    "year": 2007,
+    "rating": 8.1,
+    "votes": 67000,
+    "duration": "2h 42m"
+  },
+  {
+    "rank": 76,
+    "title": "Guru",
+    "year": 2007,
+    "rating": 8.1,
+    "votes": 45000,
+    "duration": "2h 46m"
+  },
+  {
+    "rank": 77,
+    "title": "Laal Singh Chaddha",
+    "year": 2022,
+    "rating": 8.0,
+    "votes": 89000,
+    "duration": "2h 39m"
+  },
+  {
+    "rank": 78,
+    "title": "Shershaah",
+    "year": 2021,
+    "rating": 8.0,
+    "votes": 78000,
+    "duration": "2h 15m"
+  },
+  {
+    "rank": 79,
+    "title": "Scam 1992",
+    "year": 2020,
+    "rating": 8.0,
+    "votes": 156000,
+    "duration": "10h"
+  },
+  {
+    "rank": 80,
+    "title": "The Family Man",
+    "year": 2019,
+    "rating": 8.0,
+    "votes": 89000,
+    "duration": "8h"
+  },
+  {
+    "rank": 81,
+    "title": "Sacred Games",
+    "year": 2018,
+    "rating": 8.0,
+    "votes": 123000,
+    "duration": "16h"
+  },
+  {
+    "rank": 82,
+    "title": "Mirzapur",
+    "year": 2018,
+    "rating": 8.0,
+    "votes": 98000,
+    "duration": "18h"
+  },
+  {
+    "rank": 83,
+    "title": "Delhi Crime",
+    "year": 2019,
+    "rating": 8.0,
+    "votes": 67000,
+    "duration": "7h"
+  },
+  {
+    "rank": 84,
+    "title": "Arya",
+    "year": 2004,
+    "rating": 8.0,
+    "votes": 23000,
+    "duration": "2h 45m"
+  },
+  {
+    "rank": 85,
+    "title": "Ghajini",
+    "year": 2008,
+    "rating": 8.0,
+    "votes": 89000,
+    "duration": "3h 6m"
+  },
+  {
+    "rank": 86,
+    "title": "Jodhaa Akbar",
+    "year": 2008,
+    "rating": 8.0,
+    "votes": 67000,
+    "duration": "3h 33m"
+  },
+  {
+    "rank": 87,
+    "title": "Tashan",
+    "year": 2008,
+    "rating": 8.0,
+    "votes": 34000,
+    "duration": "2h 4m"
+  },
+  {
+    "rank": 88,
+    "title": "Welcome",
+    "year": 2007,
+    "rating": 8.0,
+    "votes": 45000,
+    "duration": "2h 39m"
+  },
+  {
+    "rank": 89,
+    "title": "Dhoom 2",
+    "year": 2006,
+    "rating": 8.0,
+    "votes": 56000,
+    "duration": "2h 32m"
+  },
+  {
+    "rank": 90,
+    "title": "Krrish",
+    "year": 2006,
+    "rating": 8.0,
+    "votes": 67000,
+    "duration": "2h 34m"
+  },
+  {
+    "rank": 91,
+    "title": "Fanaa",
+    "year": 2006,
+    "rating": 8.0,
+    "votes": 45000,
+    "duration": "2h 48m"
+  },
+  {
+    "rank": 92,
+    "title": "Bunty Aur Babli",
+    "year": 2005,
+    "rating": 8.0,
+    "votes": 34000,
+    "duration": "2h 50m"
+  },
+  {
+    "rank": 93,
+    "title": "Parineeta",
+    "year": 2005,
+    "rating": 8.0,
+    "votes": 23000,
+    "duration": "2h 10m"
+  },
+  {
+    "rank": 94,
+    "title": "Veer-Zaara",
+    "year": 2004,
+    "rating": 8.0,
+    "votes": 78000,
+    "duration": "3h 12m"
+  },
+  {
+    "rank": 95,
+    "title": "Kal Ho Naa Ho",
+    "year": 2003,
+    "rating": 8.0,
+    "votes": 89000,
+    "duration": "3h 6m"
+  },
+  {
+    "rank": 96,
+    "title": "Koi... Mil Gaya",
+    "year": 2003,
+    "rating": 8.0,
+    "votes": 56000,
+    "duration": "2h 51m"
+  },
+  {
+    "rank": 97,
+    "title": "Devdas",
+    "year": 2002,
+    "rating": 8.0,
+    "votes": 67000,
+    "duration": "3h 5m"
+  },
+  {
+    "rank": 98,
+    "title": "Kabhi Khushi Kabhie Gham",
+    "year": 2001,
+    "rating": 8.0,
+    "votes": 89000,
+    "duration": "3h 30m"
+  },
+  {
+    "rank": 99,
+    "title": "Mission Kashmir",
+    "year": 2000,
+    "rating": 8.0,
+    "votes": 34000,
+    "duration": "2h 31m"
+  },
+  {
+    "rank": 100,
+    "title": "Mohabbatein",
+    "year": 2000,
+    "rating": 8.0,
+    "votes": 45000,
+    "duration": "3h 36m"
+  }
+]
