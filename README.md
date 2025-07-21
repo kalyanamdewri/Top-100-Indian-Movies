@@ -138,4 +138,4 @@ For questions or suggestions about this analysis, please open an issue in this r
 ---
 
 *This analysis celebrates the excellence of Indian cinema and provides insights into the highest-quality films of the 21st century.*
-
+<img width="4470" height="3529" alt="Image" src="https://github.com/user-attachments/assets/366fb65b-5127-4808-9177-f17d44d8ebf1" />
